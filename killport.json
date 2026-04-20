@@ -1,19 +1,19 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/paarths-collab/killport/releases/download/v1.0.2/killport_1.0.2_windows_amd64.zip",
+            "url": "https://github.com/paarths-collab/killport/releases/download/v1.0.3/killport_1.0.3_windows_amd64.zip",
             "bin": [
                 "killport.exe"
             ],
-            "hash": "618cc530f59c7a7dc13467a1f051cc9ec7715cb1bca4e9f5e5380df83a076c0e"
+            "hash": "52b6f0da2d64b0ffba8c42348febc0bf759d397ad7c4588d1de200491cf35ef5"
         },
         "arm64": {
-            "url": "https://github.com/paarths-collab/killport/releases/download/v1.0.2/killport_1.0.2_windows_arm64.zip",
+            "url": "https://github.com/paarths-collab/killport/releases/download/v1.0.3/killport_1.0.3_windows_arm64.zip",
             "bin": [
                 "killport.exe"
             ],
-            "hash": "b43cae3ca51ee1a7fb748b482bc00f0e71b12715c0d6b074fee3d58ef00335c1"
+            "hash": "f6e9a17476f46c6a96f487245ac9383dedb9e3d112b24e2ca7bd7c23d9c29561"
         }
     },
     "homepage": "https://github.com/paarths-collab/killport",
