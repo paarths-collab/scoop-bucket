@@ -1,0 +1,21 @@
+{
+    "version": "1.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/paarths-collab/killport/releases/download/v1.0.2/killport_1.0.2_windows_amd64.zip",
+            "bin": [
+                "killport.exe"
+            ],
+            "hash": "618cc530f59c7a7dc13467a1f051cc9ec7715cb1bca4e9f5e5380df83a076c0e"
+        },
+        "arm64": {
+            "url": "https://github.com/paarths-collab/killport/releases/download/v1.0.2/killport_1.0.2_windows_arm64.zip",
+            "bin": [
+                "killport.exe"
+            ],
+            "hash": "b43cae3ca51ee1a7fb748b482bc00f0e71b12715c0d6b074fee3d58ef00335c1"
+        }
+    },
+    "homepage": "https://github.com/paarths-collab/killport",
+    "description": "Lightning-fast, AI-agent optimized port killer."
+}
