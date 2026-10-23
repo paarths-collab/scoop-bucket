@@ -1,21 +1,22 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/paarths-collab/killport/releases/download/v1.2.0/killport_1.2.0_windows_amd64.zip",
+            "url": "https://github.com/paarths-collab/killport/releases/download/v1.2.1/killport_1.2.1_windows_amd64.zip",
             "bin": [
                 "killport.exe"
             ],
-            "hash": "d045d2b7d6c60f918e840a5e69462e16bfc4d8045ec5c7149424ab0bf4717035"
+            "hash": "24d434a6682a18177549eb0dc2a8efb337b09474f9da73c01ec7fb00907beca4"
         },
         "arm64": {
-            "url": "https://github.com/paarths-collab/killport/releases/download/v1.2.0/killport_1.2.0_windows_arm64.zip",
+            "url": "https://github.com/paarths-collab/killport/releases/download/v1.2.1/killport_1.2.1_windows_arm64.zip",
             "bin": [
                 "killport.exe"
             ],
-            "hash": "452a13e5fc9f3c0ff28980746d0b57db52fdbf4bef9acf052718a01be2c0bb7d"
+            "hash": "19ed12e7e7f05535fe9eef6a9f6344618787cdf72a4e5de4713c0f6666b79803"
         }
     },
     "homepage": "https://github.com/paarths-collab/killport",
-    "description": "Inspect and free local ports with JSON output and identity-bound plans"
+    "description": "Inspect and free local ports with JSON output and identity-bound plans",
+    "license": "MIT"
 }
