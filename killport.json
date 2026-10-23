@@ -1,21 +1,21 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/paarths-collab/killport/releases/download/v1.1.0/killport_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/paarths-collab/killport/releases/download/v1.2.0/killport_1.2.0_windows_amd64.zip",
             "bin": [
                 "killport.exe"
             ],
-            "hash": "76ee9cf6f9a389b0e6a499a514f77c93d8410979e54daf0f8fd100af748d3c7a"
+            "hash": "d045d2b7d6c60f918e840a5e69462e16bfc4d8045ec5c7149424ab0bf4717035"
         },
         "arm64": {
-            "url": "https://github.com/paarths-collab/killport/releases/download/v1.1.0/killport_1.1.0_windows_arm64.zip",
+            "url": "https://github.com/paarths-collab/killport/releases/download/v1.2.0/killport_1.2.0_windows_arm64.zip",
             "bin": [
                 "killport.exe"
             ],
-            "hash": "acddebee93134ad28fefe6d452b4399b6c9ca3b8d24f9ef29591fee0df9980d3"
+            "hash": "452a13e5fc9f3c0ff28980746d0b57db52fdbf4bef9acf052718a01be2c0bb7d"
         }
     },
     "homepage": "https://github.com/paarths-collab/killport",
-    "description": "Lightning-fast, AI-agent optimized port killer."
+    "description": "Inspect and free local ports with JSON output and identity-bound plans"
 }
